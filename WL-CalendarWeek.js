@@ -8,7 +8,7 @@
  * MIT Licensed.
  */
 
-Module.register("MMM-CalendarWeek", {
+Module.register("WL-CalendarWeek", {
     // Define module defaults
     defaults: {
         maximumEntries: 20, // Total Maximum Entries
@@ -54,7 +54,7 @@ Module.register("MMM-CalendarWeek", {
 
     // Define required scripts.
     getStyles: function () {
-        return ["MMM-CalendarWeek.css", "font-awesome.css"];
+        return ["WL-CalendarWeek.css", "font-awesome.css"];
     },
 
     // Define required scripts.
