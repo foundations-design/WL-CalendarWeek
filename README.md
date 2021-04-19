@@ -1,3 +1,6 @@
+# Module: WL-CalendarWeek
+This module is a fork of the MMM-CalendarWeek module for use with the WhiteLight project
+
 # Module: MMM-CalendarWeek
 
 This calendar module for [Magic Mirror²](https://github.com/MichMich/MagicMirror) is functionally the same as the default calendar app, however its presentation is different as it uses week view.
